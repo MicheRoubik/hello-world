@@ -1,2 +1,4 @@
 # hello-world
-hello world first repository
+hello world is my first repository
+
+I am learning python, html, css, js, 
